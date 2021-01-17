@@ -1,6 +1,6 @@
 # Proyecto03_DAA_CarlosRolon
 Proyecto 03  
-  Algoritmo Djisktra 
+  Algoritmo Dijkstra 
 
   Asignatura:  Analisis y Diseño de Algortimos  |
 
